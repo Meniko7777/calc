@@ -1,0 +1,43 @@
+{
+    "logs": [
+        {
+            "outputFile": "C:\\Users\\Imi Kuta\\Downloads\\Encica\\android-calculator-master1\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values\\values.xml",
+            "map": [
+                {
+                    "source": "C:\\Users\\Imi Kuta\\Downloads\\Encica\\android-calculator-master1\\app\\src\\main\\res\\values\\strings.xml",
+                    "from": {
+                        "startLines": "2,17,18,13,22,10,9,3,21,19,14,6,20,12,11,8,4,7,5",
+                        "startColumns": "4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4",
+                        "startOffsets": "17,692,741,510,936,384,342,65,888,790,553,217,841,467,426,299,116,258,175",
+                        "endColumns": "47,48,48,42,48,41,41,50,47,50,41,40,46,42,40,42,58,40,41",
+                        "endOffsets": "60,736,785,548,980,421,379,111,931,836,590,253,883,505,462,337,170,294,212"
+                    },
+                    "to": {
+                        "startLines": "2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20",
+                        "startColumns": "4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4",
+                        "startOffsets": "55,103,152,201,244,293,335,377,428,476,527,569,610,657,700,741,784,843,884",
+                        "endColumns": "47,48,48,42,48,41,41,50,47,50,41,40,46,42,40,42,58,40,41",
+                        "endOffsets": "98,147,196,239,288,330,372,423,471,522,564,605,652,695,736,779,838,879,921"
+                    }
+                },
+                {
+                    "source": "C:\\Users\\Imi Kuta\\Downloads\\Encica\\android-calculator-master1\\app\\src\\main\\res\\values\\styles.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "17",
+                        "endColumns": "58",
+                        "endOffsets": "71"
+                    },
+                    "to": {
+                        "startLines": "21",
+                        "startColumns": "4",
+                        "startOffsets": "926",
+                        "endColumns": "57",
+                        "endOffsets": "979"
+                    }
+                }
+            ]
+        }
+    ]
+}
