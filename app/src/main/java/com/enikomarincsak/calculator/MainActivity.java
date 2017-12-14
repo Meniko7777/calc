@@ -170,14 +170,14 @@ public class MainActivity extends Activity {
     	String[] operands = value.split("\\u002B|\\u2212|\\u00F7|\\u2715");
 
     	int i = 0;
-    	double ans = Double.parseDouble(operands[i]); // TODO: catch NumberFormatException?
+    	double ans = Double.parseDouble(operands[i]); 
     	for (String operator : operators)
     		ans = applyOperation(operator, ans, Double.parseDouble(operands[++i]));
 
     	DecimalFormat df = new DecimalFormat("0.###");
     	display(df.format(ans));
     	resetCalculator();
-    	// TODO: overwrite value with ans. reset value on next keypress if it's an operand (leave it if it's an operator)
+    	
     }
     
     private double applyOperation(String operator, double operand1, double operand2)
